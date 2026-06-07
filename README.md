@@ -2,7 +2,7 @@
 
 <!-- profile-readme-refresh: 2026-06-06T19:15Z -->
 
-I build public AI research observatories, progress dashboards, and automation-backed knowledge systems for tracking how AI is changing science, engineering, medicine, mathematics, and work.
+We build public AI research observatories, progress dashboards, and automation-backed knowledge systems for tracking how AI is changing science, engineering, medicine, mathematics, and work.
 
 The public portfolio is organized around a simple idea: make high-signal AI research easier to follow by turning daily paper streams into structured, browsable, and reusable public resources.
 
